@@ -11,7 +11,7 @@ export default function FormModal({ onClose }) {
           onClick={onClose}
           className="absolute top-0 right-0 p-2 rounded-full transition cursor-pointer z-10"
         >
-          <X size={22} className="text-gray-600" />
+          <X size={20} className="text-gray-600" />
         </button>
 
         {/* Content */}
